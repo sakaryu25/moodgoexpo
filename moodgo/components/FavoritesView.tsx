@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import type { FavoriteItem } from '@/types/app';
-import { COLORS } from '@/constants/colors';
+import { COLORS } from '@/constants/Colors';
 
 type Props = {
   favorites: FavoriteItem[];

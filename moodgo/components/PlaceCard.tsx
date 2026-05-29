@@ -15,7 +15,7 @@ import {
   View,
 } from 'react-native';
 import type { Recommendation } from '@/types/app';
-import { COLORS } from '@/constants/colors';
+import { COLORS } from '@/constants/Colors';
 
 const T = {
   ja: {
